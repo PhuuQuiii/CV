@@ -11,23 +11,29 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 
 ---
 
+## Education
+
+**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam
+Information Technology | 2022 - 2025
+GPA: 3.12 / 4.0
+
+---
+
 ## Technical Skills
 
 ### Backend
 
-- Node.js (NestJS, Express, Koa, Bun)
+- Node.js (Express, Koa, Bun (basic experience))
 - Languages: JavaScript, TypeScript, Python, PHP
 - Databases: PostgreSQL, MySQL, Elasticsearch, Redis
 - ORMs: TypeORM, Sequelize
-- Message brokers: Redis Pub/Sub, MQTT, Apache Kafka, RabbitMQ
+- Message brokers: Redis Pub/Sub, MQTT
 
 ### DevOps & Cloud
 
-- Containerization and orchestration: Docker, Kubernetes
-- Cloud: AWS (S3, EC2, Lambda), MinIO, Blob Storage
-- CI/CD: GitHub Actions, ArgoCD
-- Monitoring and observability: Prometheus, Grafana, ELK Stack
-- Infrastructure as code: Terraform; hybrid cloud deployments
+- Containerization and orchestration: Docker, basic Kubernetes
+- Cloud: AWS (S3, EC2, Lambda), MinIO
+- CI/CD: GitHub Actions
 
 ### Additional
 
@@ -124,14 +130,6 @@ User-friendly interface and fast loading
 + Integration of VNPay payment system.
 - Technologies: Bootstrap, Django, MySQL, Railway, VNPay, Websocket, Docker
 - Article: https://github.com/PhuuQuiii/ecommer_django
-
----
-
-## Education
-
-**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam
-Information Technology | 2022 - 2025
-GPA: 3.12 / 4.0
 
 ---
 
