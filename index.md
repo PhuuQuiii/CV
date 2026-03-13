@@ -2,20 +2,12 @@
 
 **Backend Developer**
 
-nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) |
+nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) | [Linked](https://www.linkedin.com/in/qui-nguyen-67303b229/) |
 Ho Chi Minh City, Vietnam
 
 ## Summary
 
 Backend developer with over 1 year of experience in the Node.js ecosystem, focused on building scalable web applications. Experienced in working on e-commerce platforms and loyalty systems through personal projects, freelance jobs, and company work. Possesses strong skills in API design, database optimization, and system reliability.
-
----
-
-## Education
-
-**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam
-Information Technology | 2022 - 2025
-GPA: 3.12 / 4.0
 
 ---
 
@@ -130,6 +122,14 @@ User-friendly interface and fast loading
 + Integration of VNPay payment system.
 - Technologies: Bootstrap, Django, MySQL, Railway, VNPay, Websocket, Docker
 - Article: https://github.com/PhuuQuiii/ecommer_django
+
+---
+
+## Education
+
+**Vietnam Aviation Academy** | Ho Chi Minh City, Vietnam
+Information Technology | 2022 - 2025
+GPA: 3.12 / 4.0
 
 ---
 
