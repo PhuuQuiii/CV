@@ -2,7 +2,7 @@
 
 **Backend Developer**
 
-nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) | [Linked](https://www.linkedin.com/in/qui-nguyen-67303b229/) |
+nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/qui-nguyen-67303b229/) |
 Ho Chi Minh City, Vietnam
 
 ## Summary
