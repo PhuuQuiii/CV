@@ -15,5 +15,5 @@ After GitHub finishes building, your public URL will be:
 
 ## Notes
 
-- `index.html` is added as the homepage to ensure stable browser rendering.
-- `index.md` is kept as the source CV content.
+- `index.md` is used as the homepage content for GitHub Pages.
+- The Markdown file includes front matter so GitHub Pages renders it as HTML.
