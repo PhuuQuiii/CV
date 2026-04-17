@@ -3,36 +3,44 @@
 
 # Nguyen Van Phu Qui
 
-**Backend Developer**
+**FullStack Developer**
 
-nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/qui-nguyen-67303b229/) |
+nguyenphuqui170304@gmail.com | (+84) 398 12 2630 | [GitHub](https://github.com/PhuuQuiii) | [Portfolio](https://phuuquiii.github.io/Portfolio/) | [LinkedIn](https://www.linkedin.com/in/qui17032004/) |
 Ho Chi Minh City, Vietnam
 
 ## Summary
 
-Backend developer with over 1 year of experience in the Node.js ecosystem, focused on building scalable web applications. Experienced in working on e-commerce platforms and loyalty systems through personal projects, freelance jobs, and company work. Possesses strong skills in API design, database optimization, and system reliability.
+FullStack developer with over 2 year of experience in the Node.js ecosystem, focused on building scalable web applications. Experienced in working on e-commerce platforms and loyalty systems through personal projects, freelance jobs, and company work. Possesses strong skills in API design, database optimization, and system reliability.
 
 ---
 
 ## Technical Skills
 
+### Frontend
+- Frameworks: React, Next.js, React Native, Flutter
+- Styling: Tailwind CSS, Bootstrap
+- State management: Redux, Context API
+- UI/UX: Responsive design, cross-platform development
+- Integration: RESTful API integration, real-time UI (WebSocket)
+  
 ### Backend
 
-- Node.js (Express, Koa, Bun (basic experience))
+- Node.js (NestJS, Express, Koa, Bun)
 - Languages: JavaScript, TypeScript, Python, PHP
-- Databases: PostgreSQL, MySQL, Elasticsearch, Redis
-- ORMs: Sequelize
-- Message brokers: Redis Pub/Sub, MQTT
+- Databases: MongoDB, PostgreSQL, MySQL, Elasticsearch, Redis
+- ORMs: TypeORM, Sequelize
+- Message brokers: Redis Pub/Sub, MQTT, Apache Kafka, RabbitMQ
 
 ### DevOps & Cloud
 
-- Containerization and orchestration: Docker, basic Kubernetes
-- Cloud: AWS (S3, EC2, Lambda), MinIO
-- CI/CD: GitHub Actions
+- Containerization and orchestration: Docker, Kubernetes, Docker Swarm
+- Cloud: AWS (S3, EC2, Lambda), MinIO, Blob Storage
+- CI/CD: GitHub Actions, ArgoCD
+- Monitoring and observability: Prometheus, Grafana, ELK Stack
+- Infrastructure as code: Terraform; hybrid cloud deployments
 
 ### Additional
 
-- Frontend: React, Next.js, React Native, Tailwind CSS, Flutter
 - Tools: Git, Postman, Swagger, Bull Queue, cron
 - Languages: Vietnamese (native), English (Upper-Intermediate English)
 
@@ -40,17 +48,17 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 
 ## Experience
 
-**Remote Fullstack Developer** | Stitch Digital Solutions Limited | 11/2025 - Present
+**Remote Fullstack Developer** | Stitch Digital Solutions Limited | 02/2025 - Present
 
 - Develop fullstack features for a CRM platform serving the bespoke tailoring industry in Thailand and Hong Kong.
-- Build responsive CRM interfaces and backend APIs using Next.js and Express, supporting multi-language interfaces (English, Thai, Cantonese).
+- Built and maintained CRM backend APIs and frontend interfaces used by tailoring businesses in Thailand and Hong Kong, supporting multilingual workflows and real-time data synchronization.
 - Integrate Supabase for authentication, real-time data, and storage; design database models and implement access control systems.
 - Develop OCR and AI-assisted document processing pipelines to extract and normalize customer measurement and order data.
 - Build an email integration system using SendGrid, supporting Gmail inbox synchronization, email filtering, bulk personalized sending, and daily sending quota control.
 - Implement a cross-platform handwriting measurement system for iPad and Android tablets using Apple Scribble and W3C Handwriting API, feeding data into a unified measurement engine.
 - Contribute to CI/CD pipelines, production monitoring, and collaborate with distributed teams following Agile workflows using Notion.
 
-**Freelance iOS & Flutter Developer** | Upwork | 08/2025 – 11/2025 | https://www.upwork.com/freelancers/~0103fd47d4f53494c4
+**Freelance iOS & Flutter Developer** | Upwork | 08/2025 – 10/2025 | https://www.upwork.com/freelancers/~0103fd47d4f53494c4
 
 - Developed cross-platform mobile applications using Flutter and contributed to iOS development with Swift.
 - Designed and implemented RESTful backend APIs using FastAPI to support mobile features.
@@ -58,6 +66,14 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 - Performed testing, debugging, and performance optimization to improve application stability.
 - Deployed backend services on AWS, ensuring reliable and scalable application infrastructure.
 - Collaborated with international clients to gather requirements and deliver project updates.
+
+**Web Developer** | Soft Ware KK VAT Company Limited | 11/2024 - 06/2025 | https://kkvat.com.vn/
+
+- Designed UI/UX and developed web interfaces for an electronic contract system for both users and administrators
+- Integrated RESTful APIs from backend services into the frontend application
+- Implemented authentication APIs including user authentication, two-factor authentication (2FA), and role-based access control (RBAC)
+- Wrote test cases and performed testing for electronic contract signing workflows
+- Contributed to the development and testing of the e-contract signing process
 
 **Freelance Backend Developer & Research Assistant** | Self-employed & Vietnam Aviation Academy | 08/2023 - 03/2024
 
@@ -67,16 +83,6 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 - Contributed to the research project “Developed a facial recognition-based student attendance system” (https://fitvaa.edu.vn/Public/Science/ViewPublicRe/Khoa_Cong_Nghe_Thong_Tin_Hoc_Vien_Hang_khong_Viet_Nam/lkJHTy@988.VAA)
 - Participated in the Smart Airport project, which was featured on VnExpress( https://vnexpress.net/sinh-vien-lam-hop-thong-minh-chi-dan-hanh-khach-o-san-bay-4732578.html )
 - Collaborated on funded research projects and technical publications
-
-**Intern Web Developer** | Soft Ware KK VAT Company Limited | 06/2025 - 12/2025 | https://hopdongkkvat.com/ | https://admin.hopdongkkvat.com/
-
-
-- Designed UI/UX and developed web interfaces for an electronic contract system for both users and administrators
-- Integrated RESTful APIs from backend services into the frontend application
-- Implemented authentication APIs including user authentication, two-factor authentication (2FA), and role-based access control (RBAC)
-- Wrote test cases and performed testing for electronic contract signing workflows
-- Contributed to the development and testing of the e-contract signing process
-
 
 ---
 
