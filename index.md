@@ -21,7 +21,7 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 - Node.js (Express, Koa, Bun (basic experience))
 - Languages: JavaScript, TypeScript, Python, PHP
 - Databases: PostgreSQL, MySQL, Elasticsearch, Redis
-- ORMs: TypeORM, Sequelize
+- ORMs: Sequelize
 - Message brokers: Redis Pub/Sub, MQTT
 
 ### DevOps & Cloud
@@ -32,7 +32,7 @@ Backend developer with over 1 year of experience in the Node.js ecosystem, focus
 
 ### Additional
 
-- Frontend: React, Next.js, React Native, Tailwind CSS
+- Frontend: React, Next.js, React Native, Tailwind CSS, Flutter
 - Tools: Git, Postman, Swagger, Bull Queue, cron
 - Languages: Vietnamese (native), English (Upper-Intermediate English)
 
